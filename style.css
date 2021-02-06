@@ -1,0 +1,21 @@
+.age-consider{
+    font-size: 7vw;
+    text-align: center;
+}
+
+.link-to:hover{
+    color: #f44336;
+    background: white;
+}
+
+.link-cover{
+    text-align: center;
+}
+
+.cs-bt{
+    font-size: 1.5rem;
+}
+
+.private-logo{
+    margin-top: 50px;
+}
